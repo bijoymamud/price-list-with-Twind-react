@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 29.99,
+    "description": "Access to gym facilities during staffed hours only.",
+    "features": ["All gym equipment access", "Locker rentals available"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 49.99,
+    "description": "Access to gym facilities 24/7.",
+    "features": [
+      "All gym equipment access",
+      "Locker rentals included",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ultimate Membership",
+    "price": 89.99,
+    "description": "Access to gym facilities 24/7, plus personal training sessions.",
+    "features": [
+      "All gym equipment access",
+      "Locker rentals included",
+      "Group fitness classes",
+      "2 personal training sessions/month"
+    ]
+  }
+]
