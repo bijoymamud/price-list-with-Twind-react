@@ -37,7 +37,7 @@ const Navbar = () => {
                 }
             </ul>
 
-            <h1 className='text-6xl text-purple-600'>Welcome from Tailwind css</h1>
+
         </nav >
     );
 };

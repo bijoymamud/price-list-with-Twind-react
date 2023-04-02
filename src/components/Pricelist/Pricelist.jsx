@@ -16,10 +16,10 @@ const Pricelist = () => {
     }, [])
 
     return (
-        <div>
-            <h2 className='text-6xl text-center text-white bg-purple-600 mt-10 p-3 mx-2 rounded-md'>Awesome Affordable Price</h2>
+        <div className='mx:2 md:mx-10'>
+            <h2 className='text-6xl text-center text-white bg-purple-600 mt-10 p-3 mx-2 lg:mx-96 rounded-md font-mono'> Affordable Price</h2>
 
-            <div className=' grid grid-cols-1 md:grid-cols-3 gap-5'>
+            <div className=' grid grid-cols-1 md:grid-cols-3  '>
                 {
                     prices.map(price => <PriceCard
 
