@@ -11,7 +11,7 @@ const PriceCard = ({ price }) => {
             </h2>
 
             <h2 className='text-3xl font-bold font-mono '>{price.name}</h2>
-            <div className='text-start mt-10    '>
+            <div className='text-start mt-10   mb-5 '>
                 <p className='font-mono font-bold text-xl underline underline-offset-8 mb-3' >Features:</p>
 
                 {
